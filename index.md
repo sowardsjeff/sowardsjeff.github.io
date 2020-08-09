@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/sowardsjeff/sowardsjeff.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Code Review
-- Test [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4)
+- Test [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4?raw=true)
 
 ### Markdown
 
