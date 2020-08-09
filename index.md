@@ -1,8 +1,12 @@
-## Welcome to Jeff Sowards Pages!!
+## Welcome to Jeff Sowards ePortfolio!!
 
-You can use the [editor on GitHub](https://github.com/sowardsjeff/sowardsjeff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. Below the following will be address.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Code Review
+- Enhancements covers:
+  1. Software Design and Engineering
+  2. Algorithmsand Data Structure
+  3. Database
 
 # Code Review
 - Test [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4?raw=true)
