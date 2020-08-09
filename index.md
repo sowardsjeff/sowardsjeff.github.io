@@ -3,13 +3,21 @@
 This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. Below the following will be address.
 
 - Code Review
-- Enhancements covers:
+- Enhancements covering:
   1. Software Design and Engineering
-  2. Algorithmsand Data Structure
+  2. Algorithms and Data Structure
   3. Database
+  4. Professional Self-Assessment
 
 # Code Review
-- Test [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4?raw=true)
+- [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4?raw=true)
+
+# Enhancements
+1. [Software Design and Engineering](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/3-2.docx?raw=true)
+2. [Algorithms and Data Structure](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/4-3.docx?raw=true)
+3. [Database](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/5-3.docx?raw=true)
+
+# Professional Self-Assessment
 
 ### Markdown
 
@@ -35,11 +43,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
-### Jekyll Themes
+<!-- ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sowardsjeff/sowardsjeff.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sowardsjeff/sowardsjeff.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 ### Support or Contact
 
