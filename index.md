@@ -14,10 +14,11 @@ This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. B
 
 # Enhancements
 1. [Software Design and Engineering](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/3-2.docx?raw=true)
-2. [Algorithms and Data Structure](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/4-3.docx?raw=true)
-3. [Database](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/5-3.docx?raw=true)
+2. [Algorithms and Data Structure](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/4-2.docx?raw=true)
+3. [Database](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/5-2.docx?raw=true)
 
 # Professional Self-Assessment
+1. [Placeholder](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/3-2.docx?raw=true)
 
 <!-- ### Markdown
 
