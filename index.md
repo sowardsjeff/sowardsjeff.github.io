@@ -19,7 +19,7 @@ This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. B
 
 # Professional Self-Assessment
 
-### Markdown
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -41,7 +41,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+``` -->
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
