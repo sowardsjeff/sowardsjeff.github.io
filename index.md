@@ -2,11 +2,14 @@
 
 **This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. Below the following will be address.**
 
-  _The capstone course is the culminating experience for the bachelor of science in computer science. Integrate previous coursework and practical experience with a focus on authentic demonstration of competencies outlined by the program. Enhance previously submitted programming projects that demonstrate a level of mastery of the stated outcomes of their degree program in computer science._
+  >_The capstone course is the culminating experience for the bachelor of science in computer science. Integrate previous coursework and practical experience with a focus on authentic demonstration of competencies outlined by the program. Enhance previously submitted programming projects that demonstrate a level of mastery of the stated outcomes of their degree program in computer science._
 
+
+#ePortfolio Contents:
 - **Code Review**
 - **Enhancements Covered:**
 - **Professional Self-Assessment**
+
 
 ## Code Review
 - [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4?raw=true)
