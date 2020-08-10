@@ -1,7 +1,7 @@
+![alt text](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.capstone118.org%2FcapstoneLogo.png&f=1&nofb=1)
+
 # Welcome to Jeff Sowards ePortfolio!!
 
-![alt text](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.capstone118.org%2FcapstoneLogo.png&f=1&nofb=1
-  )
 ---------------------
 **This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6.**
 
