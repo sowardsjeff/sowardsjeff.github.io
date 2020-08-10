@@ -2,12 +2,12 @@
 
 This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. Below the following will be address.
 
-- Code Review
-- Enhancements covered:
+- **Bold** Code Review
+- **Bold** Enhancements covered:
   1. Software Design and Engineering
   2. Algorithms and Data Structure
   3. Database
-- Professional Self-Assessment
+- **Bold** Professional Self-Assessment
 
 # Code Review
 - [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4?raw=true)
