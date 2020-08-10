@@ -1,20 +1,22 @@
-## Welcome to Jeff Sowards ePortfolio!!
+# Welcome to Jeff Sowards ePortfolio!!
 
-This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. Below the following will be address.
+**This ePortfolio is developed for CS-499-Q6516 Computer Science Capstone 20EW6. Below the following will be address.**
+
+  _The capstone course is the culminating experience for the bachelor of science in computer science. Integrate previous coursework and practical experience with a focus on authentic demonstration of competencies outlined by the program. Enhance previously submitted programming projects that demonstrate a level of mastery of the stated outcomes of their degree program in computer science._
 
 - **Code Review**
 - **Enhancements Covered:**
 - **Professional Self-Assessment**
 
-# Code Review
+## Code Review
 - [Code Review Video](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/2-2.mp4?raw=true)
 
-# Enhancements
+## Enhancements
 1. [Software Design and Engineering](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/3-2.docx?raw=true)
 2. [Algorithms and Data Structure](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/4-2.docx?raw=true)
 3. [Database](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/5-2.docx?raw=true)
 
-# Professional Self-Assessment
+## Professional Self-Assessment
 1. [Placeholder](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/3-2.docx?raw=true)
 
 <!-- ### Markdown
