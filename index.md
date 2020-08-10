@@ -8,7 +8,6 @@
 >---------------------
 
 # ePortfolio Contents:
->
 - **Code Review**
 - **Enhancements Covered:**
 - **Professional Self-Assessment**
