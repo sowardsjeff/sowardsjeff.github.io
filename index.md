@@ -10,7 +10,9 @@
 
 # ePortfolio Contents:
 - **Code Review**
+> Code review is a standard practice in high-tech industries for improving deliverables and user experiences while ensuring that code is concise, thorough, well-commented, and ready for updates.
 - **Enhancements Covered:**
+> Expertise in software design and/or engineering is vital for a rising computer science professional. Provides an opportunity to take a solid step toward demonstrating this expertise while enhancing an element of your ePortfolio. These enhancement will align with the category of software design and engineering, Algorithms and Data Structure, and Databases.
 - **Professional Self-Assessment**
 
 
@@ -19,9 +21,9 @@
 >>## Enhancements
 1. [Software Design and Engineering](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/3-2.docx?raw=true)
 2. [Algorithms and Data Structure](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/4-2.docx?raw=true)
-3. [Database](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/5-2.docx?raw=true)
+3. [Databases](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/5-2.docx?raw=true)
 
-    
+
 >>## Professional Self-Assessment
 1. [Placeholder](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/ePortfolio/3-2.docx?raw=true)
 
