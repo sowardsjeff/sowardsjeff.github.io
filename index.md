@@ -11,11 +11,11 @@
 
 
 # ePortfolio Contents:
-- **Professional Self-Assessment**
+- [**Professional Self-Assessment**](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/index.md#professional-self-assessment)
 > Reflection on the capstone and experiences in the Computer Science program as a whole and serving as the formal introduction to a portfolio.
-- **Code Review**
+- [**Code Review**](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/index.md#code-review)
 > Code review is a standard practice in high-tech industries for improving deliverables and user experiences while ensuring that code is concise, thorough, well-commented, and ready for updates.
-- **Enhancements Covered**
+- [**Enhancements Covered**](https://github.com/sowardsjeff/sowardsjeff.github.io/blob/master/index.md#enhancements)
 > Expertise in software design and/or engineering is vital for a rising computer science professional. Provides an opportunity to take a solid step toward demonstrating this expertise while enhancing an element of your ePortfolio. These enhancement will align with the category of software design and engineering, Algorithms and Data Structure, and Databases.
 
 >>## Professional Self-Assessment
